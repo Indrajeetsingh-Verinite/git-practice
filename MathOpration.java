@@ -4,6 +4,6 @@ public class MathOpration{
 
 		int num = 10;
 		int num1 = 20;
-		System.err.println(num+num1+1);
+		System.err.println(num+num1);
 	}
 }
